@@ -5,6 +5,7 @@ Python implementation of the article: 3D imaging with a single, time-resolving d
 ## Citation 
 
 You can find the whole paper in [Optica](https://www.osapublishing.org/optica/abstract.cfm?uri=optica-7-8-900). 
+
 Alex Turpin, Gabriella Musarra, Valentin Kapitany, Francesco Tonolini, Ashley Lyons, Ilya Starshynov, Federica Villa, Enrico Conca, Francesco Fioranelli, Roderick Murray-Smith, and Daniele Faccio, "Spatial images from temporal data," Optica 7, 900-905 (2020)
 
 ## Data and documents descriptions

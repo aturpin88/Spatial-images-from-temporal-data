@@ -13,7 +13,7 @@ This data was not used during the training of the MLP.
 - The pre-trained weights (both for the SPAD and RADAR approaches) can be downloaded from the following link: [weights](https://www.dropbox.com/sh/ll9jr793g5s1ktl/AACLmUSD4r6eYevG7Ej1YRIRa?dl=0) 
 
 ## How to use the code
-The code [demo_model.py]() will assist you to test our recovery algorithm with the pre-trained weights [weights](https://www.dropbox.com/sh/ll9jr793g5s1ktl/AACLmUSD4r6eYevG7Ej1YRIRa?dl=0) and the provided recorded data.
+The code [demo_model.py]() will assist you to test our recovery algorithm with the pre-trained [weights](https://www.dropbox.com/sh/ll9jr793g5s1ktl/AACLmUSD4r6eYevG7Ej1YRIRa?dl=0) and the provided recorded data.
 
 ## Requirements
 [python 3.6](https://www.python.org/downloads/release/python-360/) or higher

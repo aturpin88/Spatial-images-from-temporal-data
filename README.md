@@ -1,6 +1,6 @@
 # Spatial images from temporal data: code details
 
-Python implementation of the article: 3D imaging with a single, time-resolving detector. We present our multiplayer perceptron (MLP) model, we give pre-trained weights (se below for download link), test data, and code to implement the model. 
+Python implementation of the article: Spatial images from temporal data. We present our multiplayer perceptron (MLP) model, we give pre-trained weights (se below for download link), test data, and code to implement the model. 
 
 ## Citation 
 

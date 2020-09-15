@@ -1,10 +1,11 @@
-# 3D imaging with a single, time-resolving detector: code details
+# Spatial images from temporal data: code details
 
 Python implementation of the article: 3D imaging with a single, time-resolving detector. We present our multiplayer perceptron (MLP) model, we give pre-trained weights (se below for download link), test data, and code to implement the model. 
 
 ## Citation 
 
-You can find the whole paper here: [pip](https://pip.pypa.io/en/stable/). 
+You can find the whole paper in [Optica](https://www.osapublishing.org/optica/abstract.cfm?uri=optica-7-8-900). 
+Alex Turpin, Gabriella Musarra, Valentin Kapitany, Francesco Tonolini, Ashley Lyons, Ilya Starshynov, Federica Villa, Enrico Conca, Francesco Fioranelli, Roderick Murray-Smith, and Daniele Faccio, "Spatial images from temporal data," Optica 7, 900-905 (2020)
 
 ## Data and documents descriptions
 - [histograms_SPAD.mat](), [histograms_RADAR.mat](), [ToF_camera_SPAD.mat](), and [ToF_camera_RADAR.mat]() are the histograms and 3D images experimentally recorded using the single-photon avalanche diode (SPAD) sensor, the RADAR, and the time-of-flight (ToF) camera. 

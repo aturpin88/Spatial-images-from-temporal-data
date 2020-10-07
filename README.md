@@ -10,9 +10,9 @@ Alex Turpin, Gabriella Musarra, Valentin Kapitany, Francesco Tonolini, Ashley Ly
 
 ## Data and documents descriptions
 - [histograms_SPAD.mat](), [histograms_RADAR.mat](), [ToF_camera_SPAD.mat](), and [ToF_camera_RADAR.mat]() are the histograms and 3D images experimentally recorded using the single-photon avalanche diode (SPAD) sensor, the RADAR, and the time-of-flight (ToF) camera. 
-This data was not used during the training of the MLP. [ToF_recovered_SPAD.mat]() and [ToF_recovered_RADAR.mat]() are the corresponding 3D images retrieved with our algorithm. 
-- [demo_model.py]() shows our MLP model and contains the required instructions to test it on the above-mentioned data. 
-- The pre-trained weights for the algorithm being trained with people and the SPAD sensor can be downloaded from the following link: [weights](https://www.dropbox.com/s/opmd3kxlip7inp3/weights_people.h5?dl=0) 
+This data was not used during the training of the ANN. [ToF_recovered_SPAD.mat]() and [ToF_recovered_RADAR.mat]() are the corresponding 3D images retrieved with our algorithm. 
+- [demo_model.py]() shows our ANN model and contains the required instructions to test it on the above-mentioned data. 
+- The pre-trained weights for the algorithm being trained with two people and the SPAD sensor can be downloaded from the following link: [weights](https://www.dropbox.com/s/opmd3kxlip7inp3/weights_people.h5?dl=0) 
 
 ## How to use the code
 The code [demo_model.py]() will assist you to test our recovery algorithm with the pre-trained [weights](https://www.dropbox.com/sh/ll9jr793g5s1ktl/AACLmUSD4r6eYevG7Ej1YRIRa?dl=0) and the provided recorded data.
